@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ramalansupatmanjitu.github.io/sitemap.xml
